@@ -1,0 +1,7654 @@
+fileFormatVersion: 2
+guid: beb12cd39d63582468879820a61a4642
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: 13
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: spritesheet_arc_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 669
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 669
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 669
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 669
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 669
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 669
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 669
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 669
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_8
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 669
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_9
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 669
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_10
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 669
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_11
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 669
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_12
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 669
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_13
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 669
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_14
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 669
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_15
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 669
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_16
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 669
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_17
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 669
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_18
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 669
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_19
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 669
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_20
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 669
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_21
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 669
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_22
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 669
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_23
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 669
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_24
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 669
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_25
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 669
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_26
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 669
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_27
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 669
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_28
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 669
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_29
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 669
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 646
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_31
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 646
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_32
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 646
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_33
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 646
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_34
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 646
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_35
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 646
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_36
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 646
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_37
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 646
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_38
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 646
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_39
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 646
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_40
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 646
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_41
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 646
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_42
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 646
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_43
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 646
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_44
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 646
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_45
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 646
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_46
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 646
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_47
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 646
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_48
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 646
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_49
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 646
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_50
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 646
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_51
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 646
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_52
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 646
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_53
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 646
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_54
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 646
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_55
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 646
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_56
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 646
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_57
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 646
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_58
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 646
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_59
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 646
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 623
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_61
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 623
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_62
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 623
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_63
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 623
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_64
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 623
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_65
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 623
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_66
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 623
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_67
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 623
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_68
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 623
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_69
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 623
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_70
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 623
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_71
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 623
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_72
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 623
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_73
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 623
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_74
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 623
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_75
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 623
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_76
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 623
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_77
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 623
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_78
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 623
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_79
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 623
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_80
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 623
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_81
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 623
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_82
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 623
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_83
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 623
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_84
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 623
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_85
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 623
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_86
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 623
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_87
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 623
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_88
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 623
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_89
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 623
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_91
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 600
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_92
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 600
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_93
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 600
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_94
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 600
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_95
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 600
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_96
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 600
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_97
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 600
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_98
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 600
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_99
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 600
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_100
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 600
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_101
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 600
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_102
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 600
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_103
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 600
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_104
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 600
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_105
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 600
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_106
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 600
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_107
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 600
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_108
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 600
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_109
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 600
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_110
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 600
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_111
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 600
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_112
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 600
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_113
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 600
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_114
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 600
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_115
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 600
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_116
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 600
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_117
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 600
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_118
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 600
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_119
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 600
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 577
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_121
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 577
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_122
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 577
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_123
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 577
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_124
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 577
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_125
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 577
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_126
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 577
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_127
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 577
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_128
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 577
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_129
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 577
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_130
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 577
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_131
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 577
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_132
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 577
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_133
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 577
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_134
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 577
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_135
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 577
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_136
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 577
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_137
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 577
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_138
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 577
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_139
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 577
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_140
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 577
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_141
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 577
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_142
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 577
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_143
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 577
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_144
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 577
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_145
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 577
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_146
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 577
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_147
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 577
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_148
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 577
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_149
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 577
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 554
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_151
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 554
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_152
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 554
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_153
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 554
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_154
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 554
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_155
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 554
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_156
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 554
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_157
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 554
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_158
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 554
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_159
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 554
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_160
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 554
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_161
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 554
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_162
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 554
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_163
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 554
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_164
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 554
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_165
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 554
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_166
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 554
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_167
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 554
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_168
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 554
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_169
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 554
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_170
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 554
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_171
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 554
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_172
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 554
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_173
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 554
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_174
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 554
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_175
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 554
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_176
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 554
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_177
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 554
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_178
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 554
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_179
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 554
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 531
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_181
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 531
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_182
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 531
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_183
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 531
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_184
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 531
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_185
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 531
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_186
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 531
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_187
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 531
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_188
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 531
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_189
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 531
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_190
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 531
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_191
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 531
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_192
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 531
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_193
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 531
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_194
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 531
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_195
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 531
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_196
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 531
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_197
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 531
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_198
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 531
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_199
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 508
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_200
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 508
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_201
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 508
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_202
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 508
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_203
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 508
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_204
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 508
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_205
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 508
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_206
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 508
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_207
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 508
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_208
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 508
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_209
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 508
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_210
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 508
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_211
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 508
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_212
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 508
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_213
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 508
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_214
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 508
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_215
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 508
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_216
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 508
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_217
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 508
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_218
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 508
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_219
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 508
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_220
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 508
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_221
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 508
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_222
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 508
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_223
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 508
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_224
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 508
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_225
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 508
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_226
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 485
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_227
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 485
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_228
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 485
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_229
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 485
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_230
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 485
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_231
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 485
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_232
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 485
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_233
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 485
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_234
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 485
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_235
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 485
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_236
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 485
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_237
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 485
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_238
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 485
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_239
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 485
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_240
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 485
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_241
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 485
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_242
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 485
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_243
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 485
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_244
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 485
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_245
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 485
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_246
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 485
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_247
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 485
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_248
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 485
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_249
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 485
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_250
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 485
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_251
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 485
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_252
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 485
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_253
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_254
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 462
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_255
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 462
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_256
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 462
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_257
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 462
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_258
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 462
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_259
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 462
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_260
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 462
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_261
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 462
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_262
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 462
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_263
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 462
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_264
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 462
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_265
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 462
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_266
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 462
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_267
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 462
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_268
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 462
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_269
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 462
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_270
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 462
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_271
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 462
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_272
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 462
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_273
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 462
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_274
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 462
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_275
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 462
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_276
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 462
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_277
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 462
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_278
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 462
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_279
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 462
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_280
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 462
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_281
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 439
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_282
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 439
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_283
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 439
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_284
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 439
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_285
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 439
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_286
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 439
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_287
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 439
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_288
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 439
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_289
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 439
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_290
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 439
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_291
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 439
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_292
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 439
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_293
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 439
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_294
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 439
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_295
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 439
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_296
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 439
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_297
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 439
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_298
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 439
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_299
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 439
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_300
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 439
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_301
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 439
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_302
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 439
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_303
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 439
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_304
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 439
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_305
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 439
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_306
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 439
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_307
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 439
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_308
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_309
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 416
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_310
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 416
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_311
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 416
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_312
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 416
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_313
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 416
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_314
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 416
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_315
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 416
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_316
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 416
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_317
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 416
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_318
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 416
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_319
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 416
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_320
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 416
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_321
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 416
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_322
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 416
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_323
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 416
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_324
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 416
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_325
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 416
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_326
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 416
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_327
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 416
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_328
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 416
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_329
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 416
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_330
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 416
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_331
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 416
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_332
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 416
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_333
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 416
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_334
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 416
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_335
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 393
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_336
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 393
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_337
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 393
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_338
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 393
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_339
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 393
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_340
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 393
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_341
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 393
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_342
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 393
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_343
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 393
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_344
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 393
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_345
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 393
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_346
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 393
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_347
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 393
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_348
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 393
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_349
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 393
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_350
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 393
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_351
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 393
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_352
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 393
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_353
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 393
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_354
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 393
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_355
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 393
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_356
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 393
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_357
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 393
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_358
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 393
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_359
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 393
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_360
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 393
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_361
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 393
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_362
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 370
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_363
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 370
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_364
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 370
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_365
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 370
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_366
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 370
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_367
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 370
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_368
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 370
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_369
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 370
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_370
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 370
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_371
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 370
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_372
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 370
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_373
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 370
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_374
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 370
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_375
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 370
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_376
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 370
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_377
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 370
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_378
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 370
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_379
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 370
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_380
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 370
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_381
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 370
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_382
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 370
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_383
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 370
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_384
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 370
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_385
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 370
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_386
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 370
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_387
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 370
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_388
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 370
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_389
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 347
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_390
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 347
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_391
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 347
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_392
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 347
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_393
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 347
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_394
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 347
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_395
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 347
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_396
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 347
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_397
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 347
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_398
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 347
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_399
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 347
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_400
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 347
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_401
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 347
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_402
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 347
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_403
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 347
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_404
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 347
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_405
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 347
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_406
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 347
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_407
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 347
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_408
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 347
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_409
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 347
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_410
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 347
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_411
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 347
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_412
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 347
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_413
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 347
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_414
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 347
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_415
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 347
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_416
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 347
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_417
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 347
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_418
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 324
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_419
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 324
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_420
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 324
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_421
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 324
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_422
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 324
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_423
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 324
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_424
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 324
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_425
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 324
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_426
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 324
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_427
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 324
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_428
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 324
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_429
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 324
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_430
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 324
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_431
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 324
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_432
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 324
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_433
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 324
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_434
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 324
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_435
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 324
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_436
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 324
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_437
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 324
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_438
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 324
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_439
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 324
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_440
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 324
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_441
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 324
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_442
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 324
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_443
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 324
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_444
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 301
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_445
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 301
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_446
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 301
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_447
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 301
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_448
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 301
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_449
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 301
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_450
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 301
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_451
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 301
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_452
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 301
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_453
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 301
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_454
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 301
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_455
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 301
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_456
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 301
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_457
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 301
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_458
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 301
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_459
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 301
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_460
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 301
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_461
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 301
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_462
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 301
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_463
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 301
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_464
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 301
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_465
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 301
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_466
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 301
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_467
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 301
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_468
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 301
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_469
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 301
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_470
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 301
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_471
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 301
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_472
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 301
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_473
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_474
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 278
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_475
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 278
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_476
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 278
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_477
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 278
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_478
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 278
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_479
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 278
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_480
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 278
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_481
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 278
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_482
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 278
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_483
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 278
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_484
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 278
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_485
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 278
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_486
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 278
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_487
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 278
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_488
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 278
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_489
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 278
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_490
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 278
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_491
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 278
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_492
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 278
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_493
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 278
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_494
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 278
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_495
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 278
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_496
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 278
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_497
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 278
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_498
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 278
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_499
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 278
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_500
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 278
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_501
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 278
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_502
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_503
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 255
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_504
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 255
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_505
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 255
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_506
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 255
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_507
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 255
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_508
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 255
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_509
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 255
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_510
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 255
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_511
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 255
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_512
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 255
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_513
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 255
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_514
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 255
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_515
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 255
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_516
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 255
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_517
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 255
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_518
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 255
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_519
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 255
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_520
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 255
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_521
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 255
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_522
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 255
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_523
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 255
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_524
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 255
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_525
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 255
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_526
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 255
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_527
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 255
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_528
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 255
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_529
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 255
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_530
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 255
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_531
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_532
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 232
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_533
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 232
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_534
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 232
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_535
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 232
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_536
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 232
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_537
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 232
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_538
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 232
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_539
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 232
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_540
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 232
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_541
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 232
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_542
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 232
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_543
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 232
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_544
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 232
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_545
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 232
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_546
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 232
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_547
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 232
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_548
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 232
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_549
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 232
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_550
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 232
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_551
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 232
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_552
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 232
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_553
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 232
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_554
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 232
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_555
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 232
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_556
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 232
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_557
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 232
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_558
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 232
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_559
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 232
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_560
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_561
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 209
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_562
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 209
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_563
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 209
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_564
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 209
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_565
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 209
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_566
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 209
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_567
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 209
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_568
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 209
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_569
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 209
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_570
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 209
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_571
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 209
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_572
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 209
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_573
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 209
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_574
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 209
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_575
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 209
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_576
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 209
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_577
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 209
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_578
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 209
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_579
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 209
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_580
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 209
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_581
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 209
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_582
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 209
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_583
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 209
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_584
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 209
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_585
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 209
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_586
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 209
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_587
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 209
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_588
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_589
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 186
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_590
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 186
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_591
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 186
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_592
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 186
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_593
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 186
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_594
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 186
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_595
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 186
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_596
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 186
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_597
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 186
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_598
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 186
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_599
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 186
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_600
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 186
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_601
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 186
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_602
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 186
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_603
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 186
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_604
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 186
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_605
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 186
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_606
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 186
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_607
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 186
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_608
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 186
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_609
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 186
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_610
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 186
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_611
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 186
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_612
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 186
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_613
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 186
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_614
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 186
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_615
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 186
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_616
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_617
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 163
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_618
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 163
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_619
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 163
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_620
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 163
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_621
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 163
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_622
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 163
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_623
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 163
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_624
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 163
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_625
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 163
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_626
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 163
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_627
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 163
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_628
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 163
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_629
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 163
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_630
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 163
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_631
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 163
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_632
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 163
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_633
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 163
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_634
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 163
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_635
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 163
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_636
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 163
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_637
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 163
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_638
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 163
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_639
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 163
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_640
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 163
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_641
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 163
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_642
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 163
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_643
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 163
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_644
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 163
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_645
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_646
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 140
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_647
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 140
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_648
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 140
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_649
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 140
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_650
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 140
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_651
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 140
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_652
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 140
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_653
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 140
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_654
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 140
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_655
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 140
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_656
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 140
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_657
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 140
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_658
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 140
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_659
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 140
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_660
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 140
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_661
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 140
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_662
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 140
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_663
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 140
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_664
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 140
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_665
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 140
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_666
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 140
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_667
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 140
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_668
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 140
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_669
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 140
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_670
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 140
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_671
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 140
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_672
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 140
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_673
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 140
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_674
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 140
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_675
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_676
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 117
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_677
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 117
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_678
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 117
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_679
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 117
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_680
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 117
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_681
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 117
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_682
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 117
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_683
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 117
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_684
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 117
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_685
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 117
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_686
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 117
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_687
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 117
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_688
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 117
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_689
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 117
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_690
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 117
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_691
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 117
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_692
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 117
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_693
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 117
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_694
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 117
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_695
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 117
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_696
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 117
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_697
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 117
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_698
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 117
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_699
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 117
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_700
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 117
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_701
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 117
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_702
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 117
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_703
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 117
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_704
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 117
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_705
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_706
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 94
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_707
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 94
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_708
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 94
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_709
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 94
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_710
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 94
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_711
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 94
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_712
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 94
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_713
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 94
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_714
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 94
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_715
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 94
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_716
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 94
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_717
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 94
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_718
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 94
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_719
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 94
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_720
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 94
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_721
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 94
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_722
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 94
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_723
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 94
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_724
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 94
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_725
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 94
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_726
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 94
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_727
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 94
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_728
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 94
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_729
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 94
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_730
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 94
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_731
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 94
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_732
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 94
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_733
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_734
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 71
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_735
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 71
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_736
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 71
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_737
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 71
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_738
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 71
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_739
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 71
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_740
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 71
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_741
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 71
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_742
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 71
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_743
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 71
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_744
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 71
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_745
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 71
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_746
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 71
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_747
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 71
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_748
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 71
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_749
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 71
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_750
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 71
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_751
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 71
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_752
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 71
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_753
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 71
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_754
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 71
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_755
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 71
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_756
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 71
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_757
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 71
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_758
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 71
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_759
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 71
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_760
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 71
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_761
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_762
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 48
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_763
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 48
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_764
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 48
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_765
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 48
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_766
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 48
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_767
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 48
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_768
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 48
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_769
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 48
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_770
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 48
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_771
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 48
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_772
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 48
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_773
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 48
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_774
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 48
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_775
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 48
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_776
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 48
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_777
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 48
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_778
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 48
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_779
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 48
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_780
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 48
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_781
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 48
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_782
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 48
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_783
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 48
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_784
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 48
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_785
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 48
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_786
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 48
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_787
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 48
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_788
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 48
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_789
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_790
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 25
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_791
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 25
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_792
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 25
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_793
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 25
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_794
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 25
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_795
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 25
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_796
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 25
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_797
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 25
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_798
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 25
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_799
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 25
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_800
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 25
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_801
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 25
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_802
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 25
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_803
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 25
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_804
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 25
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_805
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 25
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_806
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 25
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_807
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 25
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_808
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 25
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_809
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 25
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_810
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 25
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_811
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 25
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_812
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 25
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_813
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 25
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_814
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 25
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_815
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 25
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_816
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 25
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_817
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_818
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_819
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_820
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_821
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 2
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_822
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_823
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_824
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_825
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_826
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_827
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_828
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_829
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_830
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 2
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_831
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_832
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 2
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_833
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 2
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_834
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_835
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 2
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_836
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 2
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_837
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_838
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 2
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_839
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 2
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_840
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 2
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_841
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 2
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_842
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_843
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 2
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: spritesheet_arc_844
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 2
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
